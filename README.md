@@ -76,7 +76,10 @@ ANTHROPIC_API_KEY=your_api_key
 
 ## Screenshots
 
-(Add screenshots here)
+<img width="1920" height="1080" alt="Screenshot from 2026-05-13 12-17-25" src="https://github.com/user-attachments/assets/41a010cd-89c1-455a-b1c6-e13da4b77402" />
+<img width="1920" height="1080" alt="Screenshot from 2026-05-13 12-33-57" src="https://github.com/user-attachments/assets/5c8fbe53-83e4-4c1b-868c-43a4a7a7cd54" />
+
+
 
 ---
 
